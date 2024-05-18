@@ -12,18 +12,20 @@ h1{
 button{
     border-radius: 15px;
     width: 100px;
-   
 
-   
 }
-
+button:hover{
+    cursor: pointer;
+}
 .color{
    
    margin:auto;
    border: 2px solid black;
     height: 200px;
     width: 400px;
-    position: relative;
+    position: absolute;
+    top: 50px;
+     text-align: center;
 
 }
 
@@ -33,7 +35,7 @@ button{
     justify-content: space-between;
     align-items: center;
     position: relative;
-    top:100px;
+    top:25px;
     height: 500px;
    
     

@@ -1,8 +1,8 @@
 let btn=document.querySelector("button");
 btn.addEventListener("click",function(){
-    let h3=document.querySelector("h1");
+    let h3=document.querySelector("h3");
     let randomcolor=getrandomcolor();
-    h1.innerText=randomcolor;
+    h3.innerText=randomcolor;
 
     let div=document.querySelector(".color");
     div.style.backgroundColor=randomcolor;
