@@ -2,7 +2,7 @@ let btn=document.querySelector("button");
 btn.addEventListener("click",function(){
     let p=document.querySelector("p");
     let randomcolor=getrandomcolor();
-    p.innerHTML=`<p>YOUR COLOR IS :${randomcolor}</p>`;
+    p.innerHTML=`<p>YOUR COLOR IS : ${randomcolor}</p>`;
 
     let div=document.querySelector(".color");
     div.style.backgroundColor=randomcolor;
