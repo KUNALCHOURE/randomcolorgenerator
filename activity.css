@@ -1,36 +1,36 @@
 h1{
     text-align: center;
 }
-span{
-    text-align: center;
+
+.main{
+    display: flex;
+    flex-direction: column;
 }
-h3{
+
+.subh p{
     text-align: center;
+    font-size: x-large;
+
 }
 .btn{
     text-align: center;
 }
 
-.color{
-   
-   margin:auto;
-   border: 2px solid black;
-    height: 200px;
-    width: 400px;
-    position: absolute;
-    top: 50px;
-     text-align: center;
+.btn{
+    margin: 10px;
 
 }
+.btn button{
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+}
 
-.generator{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-    top:25px;
-    height: 500px;
-   
-    
+.color{
+   margin:auto;
+   border: 2px solid black;
+   border-radius: 15px;
+    height: 200px;
+    width: 400px;
+     text-align: center;
 }
