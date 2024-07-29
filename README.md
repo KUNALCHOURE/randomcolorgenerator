@@ -28,3 +28,6 @@ The project features a professional design with a modern look:
 - **Background Gradient:** A modern gray-blue gradient (`#bdc3c7` to `#2c3e50`) for the page background.
 - **Button:** A primary blue background color (`#3498db`) with a darker blue hover effect (`#2980b9`).
 - **Display Box:** A centered, bordered, and rounded box to showcase the generated color.
+
+# Screenshot
+![Screenshot 2024-07-29 220252](https://github.com/user-attachments/assets/aea49ff4-dd0f-4b41-8bbd-438b03fa0b1c)
