@@ -1,5 +1,18 @@
+body{
+    background: linear-gradient(to right, #1c92d2, #f2fcfe);
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
 h1{
     text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 .main{
@@ -8,8 +21,8 @@ h1{
 }
 
 .subh p{
-    text-align: center;
     font-size: x-large;
+    margin-bottom: 20px;
 
 }
 .btn{
@@ -21,16 +34,27 @@ h1{
 
 }
 .btn button{
-    height: 30px;
-    width: 150px;
-    border-radius: 10px;
+    height: 40px;
+    width: 180px;
+    border-radius: 20px;
+    border: none;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+ 
+}
+.btn button:hover {
+    background:#2980b9;
 }
 
 .color{
-   margin:auto;
-   border: 2px solid black;
-   border-radius: 15px;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 15px;
     height: 200px;
-    width: 400px;
-     text-align: center;
+    width: 100%;
+    max-width: 400px;
+
+    font-size: 1.2em;
 }
