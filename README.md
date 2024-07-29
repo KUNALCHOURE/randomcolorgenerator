@@ -30,4 +30,5 @@ The project features a professional design with a modern look:
 - **Display Box:** A centered, bordered, and rounded box to showcase the generated color.
 
 # Screenshot
-![Screenshot 2024-07-29 220252](https://github.com/user-attachments/assets/aea49ff4-dd0f-4b41-8bbd-438b03fa0b1c)
+![Screenshot 2024-07-29 220950](https://github.com/user-attachments/assets/71343468-feab-45e9-b0bf-1bc2b89a8217)
+
